@@ -88,16 +88,11 @@
 
 ---
 **University of Illinois Chicago** | Chicago, Illinois, USA &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">  
-**Graduate Teaching Assistant** | Sep 2024 - Present  
-- Developed and delivered both synchronous and asynchronous instruction in Swift programming, with a focus on iOS app development (SwiftUI, UIKit), empowering students to build real-world mobile applications addressing community challenges.
-- Integrated cutting-edge AR/VR/Spatial Computing content, collaborating with students in an Agile environment to build innovative mobile
-applications.
-- Earned Apple-certified NC3 training in North Carolina, gaining advanced expertise in Swift programming and leadership skills to conduct
-train-the-trainer sessions for the Sandbox@UIC team.
-- Spearheaded outreach initiatives to recruit students, promote UIC Innovation programs, and coordinate event operations, significantly
-enhancing community engagement and technological literacy.
-- **Tools:** Swift Programming, SwiftUI, UIKit
-- **Competencies:** App Development, Software Development
+**Graduate Teaching Assistant** | Jan 2025 - Present  
+- Led problem-solving sessions on physiological fluid mechanics and mass transport with real-world biomedical applications.
+- Created computational models to illustrate diffusion and convection processes in biological systems.
+- Provided tailored support on dimensionless analysis and enzyme kinetics during office hours using practical examples.
+- **Competencies:** Mathematical Modelling of real world problems
 <br>
 
 **Habib Bank Limited** *(Pakistan's leading bank)* | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
