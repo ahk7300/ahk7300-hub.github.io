@@ -95,26 +95,22 @@
 - **Competencies:** Mathematical Modelling of real world problems
 <br>
 
-**Habib Bank Limited** *(Pakistan's leading bank)* | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
-**Data Engineer Intern** | Aug 2023 - May 2024  
-- Developed an ETL data pipeline that integrated data from multiple sources (MySQL, PostgreSQL, MongoDB) into a centralized repository
-for customer information.
-- Designed and implemented a star schema, creating dimensional tables and a fact table to optimize data retrieval and reporting.
-- Automated data extraction, transformation, and loading (ETL) processes, reducing manual intervention for viewing customer data by 70%.
-- **Tools:** Python, SQL, Scikit-learn, XGBoost, Apache Spark, Excel
-- **Competencies:** Machine Learning, Churn Forecasting, Customer Segmentation, Adhoc Analysis, Stakeholder Management
+**University of Illinois Chicago** | Chicago, Illinois, USA &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">  
+**Graduate Research Assistant** | Aug 2024 - Dec 2024   
+- Engineered a tongue-controlled trackpad to enhance accessibility for neurologically intact patients.
+- Designed and optimized flexible PCB layouts using Eagle software to improve functionality and reliability.
+- Collaborated on data preprocessing and analysis to extract insights from subject trials and improve system performance.
+- **Tools:** Python,Frontend Development, Signal Processing, MATLAB, Autodesk Eagle
+- **Competencies:** Data processing, Rehabilitation, Signal Processing, Data analysis.
 <br>
 
-**Pakistan State Oil** *(Pakistan's largest oil marketing company (OMC))* | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
-**Data Science Intern** | Jul 2022 - Aug 2022
-- Successfully completed 'Credit Limit Analysis' and ‘Sales Forecasting’ projects at PSO, utilizing my skills in data extraction and analysis to
-extract relevant features from SAP Software.
-- Collaborated with cross-functional teams to gain a deep understanding of PSO's existing credit policy and worked closely with different
-departments to identify areas for data-driven improvements.
-- Conducted extensive data analysis and extracted actionable insights that helped PSO allocate its resources more effectively, resulting in a
-significant 38% improvement in the company's credit management and risk assessment capabilities.
-- **Tools:** SQL, STAN, Grafana, Python
-- **Competencies:** AI Production, Analytical Dashboards, Model Iteration, Hierarchical Modeling
+**Bahawal Victoria Hospital** | Bahawalpur, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
+**Intern | Biomedical Engineering Department** | Jun 2023 - Feb 2024
+- Maintained and operated clinical laboratory equipment, ensuring optimal performance.
+- Created detailed service reports for laboratory equipment and communicated findings to the engineering team.
+- Collaborated with the team to troubleshoot equipment issues and streamline maintenance processes.
+- **Tools:** Biomedical testing Equipment,HIS & maintainance system.
+- **Competencies:** Problem Solving , Technical Report writing, collaboration & communication.
 <br>
 
 **3STEM** | Chicago, Illinois, USA &nbsp; <img src="assets/us.png" alt="Pakistan Flag" width="18" height="13">  
