@@ -64,24 +64,24 @@
 ### EDUCATION
 
 ---
-**University of Illinois at Chicago**&**University of Illinois Urbana Champaign**  
+**University of Illinois at Chicago & University of Illinois Urbana Champaign**  
 ***Chicago, Illinois, USA* &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">**  
 **M.S. Biomedical Engineering** _Dec 2025_
 <details>
   <summary><em>Relevant Coursework</em></summary>
   <ul>
     <li>Machine Learning</li>
-    <li>Data Sciencee</li>
-    <li>Big Data Mining</li>
-    <li>Natural Language Processing</li>
-    <li>Energy Efficient Deep Learning</li>
+    <li>Wearable assistive Technology</li>
+    <li>Signal Procesing</li>
+    <li>PCB Designing</li>
+    <li>FDA & ISO Requirements</li>
   </ul>
 </details>
 <br>
 
-**Institute of Business Administration Karachi**  
-***Karachi, Pakistan* &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
-**B.S. Computer Science** _May 2024_
+**Harvard Business School**  
+***Boston, USA* &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">**  
+**Entrepreneurship in Emerging Economies** _Oct 2019_
 <br>
 
 ### WORK EXPERIENCE
