@@ -133,7 +133,7 @@ static images and 393 videos for dynamic signs.
 - Achieved groundbreaking accuracy of 99.8% for static signs and 100% for dynamic gestures, earning publication in an impact-factor journal and winning the Microsoft Imagine Cup 2022.
   
 <!-- Adding an image under the project -->
-<img src="assets/RAG.png" alt="Predictive Trading Transformer" width="500">
+<img src="assets/2.jpg" alt="Predictive Trading Transformer" width="500">
 
 #### Tongue Trackpad for rehabilitation of Neurological intact|Autodesk Eagle, MATLAB, Python|[GitHub](https://github.com/ahk7300)
 
@@ -154,7 +154,7 @@ static images and 393 videos for dynamic signs.
 - Collaborated on scientific documentation, producing detailed reports and presentations to communicate findings effectively in a multidisciplinary team setting.
 
 <!-- Adding an image under the project -->
-<img src="assets/blockhouse-trading.png" alt="Predictive Trading Transformer" width="500">
+<img src="assets/1.webp" alt="Predictive Trading Transformer" width="500">
 
 #### Neural Movement & Project
 1. [Heel Support Dynamics in Ankle Joint Using Inverted Pendulum Modeling](https://github.com/ahk7300/heel-simulation-using-one-degree-of-freedom-Inverted-Pendulum-Model-)
@@ -169,8 +169,7 @@ https://doi.org/10.7717/peerj-cs.1174 Impact factor:3.061 (2021) -- Published | 
 Recognition. 20th International Bhurban Conference on Applied Sciences & Technology (IEEE IBCAST-2023), Pakistan,
 August 23-25, 2023. Published | [Link](https://ieeexplore.ieee.org/abstract/document/10712904)
 - Shabbir, F., Mujeeb, A.A., Jawed, S.F. et al. Simulation of transvascular transport of nanoparticles in tumor
-microenvironments for drug delivery applications. Sci Rep 14, 1764 (2024). https://doi.org/10.1038/s41598-024-52292-
-0. Impact factor: 4.6 (2021). Published | [Link](https://www.nature.com/articles/s41598-024-52292-0)
+microenvironments for drug delivery applications. Sci Rep 14, 1764 (2024). https://doi.org/10.1038/s41598-024-52292- 0 Impact factor: 4.6 (2021). Published | [Link](https://www.nature.com/articles/s41598-024-52292-0)
 - A. A. Mujeeb, A. H. Khan, S. Khalid, M. S. Mirza, S. J. Khan. A Neural-Network based Web Application on Real-Time
 Recognition of Pakistani Sign Language. Engineering Applications of Artificial Intelligence. Volume 135, September
 2024, 108761 https://doi.org/10.1016/j.engappai.2024.108761 Impact factor: 8 (2022) – Published | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197624009199)
