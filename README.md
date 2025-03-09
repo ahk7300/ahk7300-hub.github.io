@@ -28,6 +28,7 @@
         <li>Processing</li>
         <li>Arduino</li>
         <li>Autodesk Eagle</li>
+        <li>SolidWorks</li>
         <li>Proteus Simulation</li>
       </ul>
     </li>
