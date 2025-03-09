@@ -150,6 +150,12 @@ static images and 393 videos for dynamic signs.
 - Engineered a modular system with force, UV, temperature, humidity, and ECG sensors, enhancing player safety and performance insights.
 - Implemented a graphical interface for real-time data visualization, enabling coaches and medical staff to monitor players effectively
 
+#### Computational Fluid Dynamics| Ansys, Scientific writing, Data Analysis|[GitHub](https://github.com/ahk7300)
+
+- Developed a computational model using ANSYS to simulate trans-vascular transport of nanoparticles, enhancing understanding of transport efficiency in varying tumor microenvironments.
+- Engineered simulations to analyze nanoparticle distribution and interaction within tumor tissues, providing insights into targeted drug delivery systems.
+- Collaborated on scientific documentation, producing detailed reports and presentations to communicate findings effectively in a multidisciplinary team setting.
+
 #### Parallel Processing: My First Dips into Data Speed
 1. [Matrx Multiplication via CUDA](https://github.com/zohairhashmi/cuda-parallel-processing)
 2. [2D Convolution using MPI](https://github.com/zohairhashmi/gaussian-elimination)
