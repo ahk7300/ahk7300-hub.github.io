@@ -125,30 +125,30 @@
 ### PROJECTS
 
 ---
-#### RAG-based LLM for Medical Dialogue Generation – Biomedical NLP [GitHub](https://github.com/advaitpai/Medical-Dialog-Generation)
+#### Real Time Recognition of Pakistani Sign Langauge|MATLAB, Python, Microsoft Azure, Html, CSS, JavaScript, Flask|[GitHub](https://github.com/ahk7300/PSLapp)
 
-- Created a healthcare chatbot on GCP that provides contextually relevant responses to medical queries using NLP, Retrieval-Augmented Generation, and GPT-3 on PyTorch.
-- Enhanced response accuracy by 45% by quantifying RAG's effectiveness using pre-trained BERT embedded tokens.
-- Minimized inherent hallucinations to a 2% response rate through fine-tuning and prompt engineering techniques.
+- Developed Pakistan’s first web app for real-time recognition of PSL using MATLAB, Python, and Microsoft Azure,incorporating CNN for static signs and LSTM for dynamic gestures.
+- Collaborated with Ziauddin College for Rehabilitation and Speech Therapy to collect a comprehensive dataset of 5,120
+static images and 393 videos for dynamic signs.
+- Achieved groundbreaking accuracy of 99.8% for static signs and 100% for dynamic gestures, earning publication in an impact-factor journal and winning the Microsoft Imagine Cup 2022.
   
 <!-- Adding an image under the project -->
 <img src="assets/RAG.png" alt="Predictive Trading Transformer" width="500">
 
-#### Predictive Trading with Transformer Models: An AI-Powered Solution [GitHub](https://github.com/zohairhashmi/blockhouse-transformers)
+#### Tongue Trackpad for rehabilitation of Neurological intact|Autodesk Eagle, MATLAB, Python|[GitHub](https://github.com/ahk7300)
 
-- Designed a Transformer-based model for automated trading, achieving 86% prediction accuracy and optimizing investment portfolio decisions.
-- Processed market data features, generating sequence embeddings for price, RSI, MACD, and other technical indicators, enhancing the model’s ability to capture market trends.
-- Formulated a momentum-based strategy to optimize trades, increasing profit by 21% with 80% fewer actions.
+- Designed and prototyped a tongue-controlled trackpad using Autodesk Eagle for rehabilitation of neurologically intact patients.
+- Implemented signal processing and control algorithms in MATLAB and Python to ensure accurate and responsive functionality.
+- Collaborated with Sherly Ryan for subject data collection and hardware-software integration to enhance the rehabilitation tool's effectiveness.
   
 <!-- Adding an image under the project -->
 <img src="assets/blockhouse-trading.png" alt="Predictive Trading Transformer" width="500">
 
-#### Algorithmic Fairness & Uncertainty Analysis  [GitHub](https://github.com/zohairhashmi/uncertainty-quantification)
+#### Smart Sensor-Integrated Vest|Arduino, Processing, Signal Processing|[GitHub](https://github.com/flipkuzma/Sport-Vest)
 
-- Developed techniques to quantify uncertainty and enhance fairness in ML models, addressing biases in datasets.
-- Analyzed aleatoric and epistemic uncertainties using Monte Carlo Markov Chains (MCMC) with PyMC and TensorFlow.
-- Improved predictive capability and fairness by 15% and reduced bias by 10% through Ensemble and Dropout Neural Networks.
-- Showed that epistemic uncertainty decreases with increased dataset knowledge and demonstrated how adding random noise can reduce biases, resulting in a fairer dataset.
+- Developed a smart sensor-integrated vest using Arduino to monitor football players’ performance and environmental conditions in real-time.
+- Engineered a modular system with force, UV, temperature, humidity, and ECG sensors, enhancing player safety and performance insights.
+- Implemented a graphical interface for real-time data visualization, enabling coaches and medical staff to monitor players effectively
 
 #### Parallel Processing: My First Dips into Data Speed
 1. [Matrx Multiplication via CUDA](https://github.com/zohairhashmi/cuda-parallel-processing)
