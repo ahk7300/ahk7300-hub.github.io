@@ -140,9 +140,6 @@ static images and 393 videos for dynamic signs.
 - Designed and prototyped a tongue-controlled trackpad using Autodesk Eagle for rehabilitation of neurologically intact patients.
 - Implemented signal processing and control algorithms in MATLAB and Python to ensure accurate and responsive functionality.
 - Collaborated with Sherly Ryan for subject data collection and hardware-software integration to enhance the rehabilitation tool's effectiveness.
-  
-<!-- Adding an image under the project -->
-<img src="assets/blockhouse-trading.png" alt="Predictive Trading Transformer" width="500">
 
 #### Smart Sensor-Integrated Vest|Arduino, Processing, Signal Processing|[GitHub](https://github.com/flipkuzma/Sport-Vest)
 
@@ -156,13 +153,14 @@ static images and 393 videos for dynamic signs.
 - Engineered simulations to analyze nanoparticle distribution and interaction within tumor tissues, providing insights into targeted drug delivery systems.
 - Collaborated on scientific documentation, producing detailed reports and presentations to communicate findings effectively in a multidisciplinary team setting.
 
-#### Parallel Processing: My First Dips into Data Speed
-1. [Matrx Multiplication via CUDA](https://github.com/zohairhashmi/cuda-parallel-processing)
-2. [2D Convolution using MPI](https://github.com/zohairhashmi/gaussian-elimination)
-3. [Gaussian Elimination using MPI](https://github.com/zohairhashmi/Convolution2D-Parallel-Processing)
+<!-- Adding an image under the project -->
+<img src="assets/blockhouse-trading.png" alt="Predictive Trading Transformer" width="500">
 
-#### [My First Ever Data Science Project](https://github.com/zohairhashmi/ibm-datascience-capstone-project)
-<br>
+#### Neural Movement & Project
+1. [Heel Support Dynamics in Ankle Joint Using Inverted Pendulum Modeling](https://github.com/ahk7300/heel-simulation-using-one-degree-of-freedom-Inverted-Pendulum-Model-)
+2. [Real Time Recognition of PSL](https://github.com/ahk7300/PSLapp)
+3. [OpenBCI EEG-Based Finger Tapping Interface for Stroke Rehabilitation](https://github.com/ahk7300/Finger-Tapping-EEG)
+
 
 ### CONTACT
 
