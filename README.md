@@ -113,15 +113,13 @@
 - **Competencies:** Problem Solving , Technical Report writing, collaboration & communication.
 <br>
 
-**3STEM** | Chicago, Illinois, USA &nbsp; <img src="assets/us.png" alt="Pakistan Flag" width="18" height="13">  
-**SAP Functional Consultant** | Nov 2021 - Oct 2023
-- Applied my SAP expertise in MM, WM, and EWM modules to optimize inventory management, reduce operational costs, and enhance
-customer satisfaction for a global household cleaning supplies manufacturer.
-- Implemented and configured Material Management processes, including purchase requisitions, release strategies, and MRP, to achieve supply
-chain efficiency.
-- Worked on ERP and EWM system integration, gaining insights into data-driven operational enhancements.
-- **Tools:** SAP ERP, SAP MM, SAP WM, SAP EWM
-- **Competencies:** AI Production, Analytical Dashboards, Model Iteration, Hierarchical Modeling
+**Ziauddin University** | Karachi, PK &nbsp; <img src="assets/us.png" alt="Pakistan Flag" width="18" height="13">  
+**Research Assistant** | Nov 2021 - Dec 2022
+- Published a study on Pakistani Sign Language recognition in an impact-factor journal for engineering and AI application.
+- Developed a real-time system for Pakistani Sign Language recognition using advanced machine learning techniques.
+- Collaborated on interdisciplinary projects, drafting research proposals and papers for high-impact publications.
+- **Tools:** MATLAB,Visual Studio, Jupyter Notebook, Microsoft Azure,Python
+- **Competencies:** Machine Learning, Deep Learning, Static Web Apps, Image Processing,Real time Recognition of Sign Language
 <br>
 
 ### PROJECTS
