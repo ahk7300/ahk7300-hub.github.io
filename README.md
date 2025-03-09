@@ -113,7 +113,7 @@
 - **Competencies:** Problem Solving , Technical Report writing, collaboration & communication.
 <br>
 
-**Ziauddin University** | Karachi, PK &nbsp; <img src="assets/us.png" alt="Pakistan Flag" width="18" height="13">  
+**Ziauddin University** | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
 **Research Assistant** | Nov 2021 - Dec 2022
 - Published a study on Pakistani Sign Language recognition in an impact-factor journal for engineering and AI application.
 - Developed a real-time system for Pakistani Sign Language recognition using advanced machine learning techniques.
