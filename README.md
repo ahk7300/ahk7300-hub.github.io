@@ -161,6 +161,26 @@ static images and 393 videos for dynamic signs.
 2. [Real Time Recognition of PSL](https://github.com/ahk7300/PSLapp)
 3. [OpenBCI EEG-Based Finger Tapping Interface for Stroke Rehabilitation](https://github.com/ahk7300/Finger-Tapping-EEG)
 
+#### PUBLICATIONS
+- Zahid H, Rashid M, Syed SA, Ullah R, Asif M, Khan M, Abdul Mujeeb A, Haider Khan A. 2022. A computer vision-based
+system for recognition and classification of Urdu sign language dataset. PeerJ Computer Science 8:e1174
+https://doi.org/10.7717/peerj-cs.1174 Impact factor:3.061 (2021) -- Published | [Link](https://peerj.com/articles/cs-1174/)
+- A. A. Mujeeb, A. H. Khan, S. Khalid, M. S. Mirza, S. J. Khan. A Deep Learning Approach to Pakistani Sign Language
+Recognition. 20th International Bhurban Conference on Applied Sciences & Technology (IEEE IBCAST-2023), Pakistan,
+August 23-25, 2023. Published | [Link](https://ieeexplore.ieee.org/abstract/document/10712904)
+- Shabbir, F., Mujeeb, A.A., Jawed, S.F. et al. Simulation of transvascular transport of nanoparticles in tumor
+microenvironments for drug delivery applications. Sci Rep 14, 1764 (2024). https://doi.org/10.1038/s41598-024-52292-
+0. Impact factor: 4.6 (2021). Published | [Link](https://www.nature.com/articles/s41598-024-52292-0)
+- A. A. Mujeeb, A. H. Khan, S. Khalid, M. S. Mirza, S. J. Khan. A Neural-Network based Web Application on Real-Time
+Recognition of Pakistani Sign Language. Engineering Applications of Artificial Intelligence. Volume 135, September
+2024, 108761 https://doi.org/10.1016/j.engappai.2024.108761 Impact factor: 8 (2022) – Published | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197624009199)
+
+#### PROFESSIONAL CONTRIBUTION
+- Elsevier Certificate of Review, Engineering Applications of Artificial Intelligence, recognized for reviewing one
+manuscript in January 2025.
+- Reviewer Certificate, Scientific Reports, recognized for reviewing one manuscript in 2024.
+- Elsevier Certificate of Review, Engineering Applications of Artificial Intelligence, recognized for reviewing one
+manuscript in March 2025.
 
 ### CONTACT
 
